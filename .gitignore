@@ -1,0 +1,6 @@
+# Ignorar los archivos de compilación de TypeScript
+*.js
+*.js.map
+
+# Ignorar los módulos de Node.js
+node_modules/
