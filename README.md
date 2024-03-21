@@ -10,7 +10,6 @@ Backend para las peticiones de la aplicacion para crear itinerarios cuenta con:
 ***
 Una lista de tecnologías utilizadas dentro del proyecto:
 * Express: Version 4.18.2
-* Vite:Version 4.3.9
 * sequelize: Version 6.32.1
 * jsonwebtoken:Version 9.0.0
 * nodemailer: Version ^6.9.3
